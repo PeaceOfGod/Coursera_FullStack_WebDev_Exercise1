@@ -8,14 +8,22 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "lite": "lite-server"
   },
-  "author": "",
+  "author": "\"Peace Bakare\"",
   "license": "ISC",
   "devDependencies": {
-    "lite-server": "^2.3.0"
+    "lite-server": "^2.4.0"
   },
   "dependencies": {
     "bootstrap": "^4.0.0",
     "jquery": "^3.3.1",
     "popper.js": "^1.12.9"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PeaceOfGod/Coursera_FullStack_WebDev_Exercise1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/PeaceOfGod/Coursera_FullStack_WebDev_Exercise1/issues"
+  },
+  "homepage": "https://github.com/PeaceOfGod/Coursera_FullStack_WebDev_Exercise1#readme"
 }
